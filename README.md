@@ -40,7 +40,7 @@ Final-year Computer Engineering undergraduate at the **University of Peradeniya*
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=database&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=sqlite&logoColor=white)
 
 ### Frontend & Backend
 
@@ -54,14 +54,14 @@ Final-year Computer Engineering undergraduate at the **University of Peradeniya*
 
 ### AI & Machine Learning
 
-![Deep Agents](https://img.shields.io/badge/Deep_Agents-6D28D9?style=flat-square)
+![Deep Agents](https://img.shields.io/badge/Deep_Agents-6D28D9?style=flat-square&logo=dependabot&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
-![LangGraph](https://img.shields.io/badge/LangGraph-0F172A?style=flat-square)
-![LiteLLM](https://img.shields.io/badge/LiteLLM-2563EB?style=flat-square)
-![MCP](https://img.shields.io/badge/MCP-7C3AED?style=flat-square)
-![Multi-Agent Systems](https://img.shields.io/badge/Multi--Agent_Systems-DB2777?style=flat-square)
+![LangGraph](https://img.shields.io/badge/LangGraph-0F172A?style=flat-square&logo=langchain&logoColor=white)
+![LiteLLM](https://img.shields.io/badge/LiteLLM-2563EB?style=flat-square&logo=openai&logoColor=white)
+![MCP](https://img.shields.io/badge/MCP-7C3AED?style=flat-square&logo=anthropic&logoColor=white)
+![Multi-Agent Systems](https://img.shields.io/badge/Multi--Agent_Systems-DB2777?style=flat-square&logo=robotframework&logoColor=white)
 ![Neural Networks](https://img.shields.io/badge/Neural_Networks-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![Dimensionality Reduction](https://img.shields.io/badge/Dimensionality_Reduction-059669?style=flat-square)
+![Dimensionality Reduction](https://img.shields.io/badge/Dimensionality_Reduction-059669?style=flat-square&logo=scikitlearn&logoColor=white)
 
 ### Databases & Persistence
 
@@ -74,19 +74,19 @@ Final-year Computer Engineering undergraduate at the **University of Peradeniya*
 
 ### Cloud & DevOps
 
-![AWS](https://img.shields.io/badge/AWS_EC2_&_S3-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS_EC2_&_S3-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 
 ### Software Engineering
 
-![OOP](https://img.shields.io/badge/OOP-334155?style=flat-square)
-![Design Patterns](https://img.shields.io/badge/Design_Patterns-475569?style=flat-square)
-![REST APIs](https://img.shields.io/badge/REST_APIs-009688?style=flat-square)
-![MVC](https://img.shields.io/badge/MVC-7C3AED?style=flat-square)
-![Microservices](https://img.shields.io/badge/Microservices-2563EB?style=flat-square)
-![Layered Architecture](https://img.shields.io/badge/Layered_Architecture-DB2777?style=flat-square)
+![OOP](https://img.shields.io/badge/OOP-334155?style=flat-square&logo=codecrafters&logoColor=white)
+![Design Patterns](https://img.shields.io/badge/Design_Patterns-475569?style=flat-square&logo=stackblitz&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST_APIs-009688?style=flat-square&logo=postman&logoColor=white)
+![MVC](https://img.shields.io/badge/MVC-7C3AED?style=flat-square&logo=spring&logoColor=white)
+![Microservices](https://img.shields.io/badge/Microservices-2563EB?style=flat-square&logo=apachekafka&logoColor=white)
+![Layered Architecture](https://img.shields.io/badge/Layered_Architecture-DB2777?style=flat-square&logo=diagramsdotnet&logoColor=white)
 
 ## ✨ Experience Spotlight
 
