@@ -13,7 +13,7 @@ Final-year Computer Engineering undergraduate at the **University of Peradeniya*
 <p>
 <img src="https://skillicons.dev/icons?i=java,py,ts,js,c&perline=10" alt="Java, Python, TypeScript, JavaScript, and C" />
 <br />
-<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" />
+<img src="https://img.shields.io/badge/-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" title="SQL" />
 </p>
 
 ### 🌐 Frontend & Backend
@@ -25,14 +25,14 @@ Final-year Computer Engineering undergraduate at the **University of Peradeniya*
 ### 🤖 AI & Machine Learning
 
 <p>
-<img src="https://img.shields.io/badge/Deep_Agents-6D28D9?style=for-the-badge&logo=langchain&logoColor=white" alt="Deep Agents" />
-<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain" />
-<img src="https://img.shields.io/badge/LangGraph-0F172A?style=for-the-badge&logo=langchain&logoColor=white" alt="LangGraph" />
-<img src="https://img.shields.io/badge/LiteLLM-2563EB?style=for-the-badge&logo=openai&logoColor=white" alt="LiteLLM" />
-<img src="https://img.shields.io/badge/MCP-7C3AED?style=for-the-badge&logo=anthropic&logoColor=white" alt="Model Context Protocol" />
-<img src="https://img.shields.io/badge/Multi--Agent_Systems-DB2777?style=for-the-badge&logo=robotframework&logoColor=white" alt="Multi-Agent Systems" />
-<img src="https://img.shields.io/badge/Neural_Networks-FF6F00?style=for-the-badge&logo=keras&logoColor=white" alt="Neural Networks" />
-<img src="https://img.shields.io/badge/Dimensionality_Reduction-059669?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Dimensionality Reduction" />
+<img src="https://img.shields.io/badge/-6D28D9?style=for-the-badge&logo=langchain&logoColor=white" alt="Deep Agents" title="Deep Agents" />
+<img src="https://img.shields.io/badge/-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain" title="LangChain" />
+<img src="https://img.shields.io/badge/-0F172A?style=for-the-badge&logo=langchain&logoColor=white" alt="LangGraph" title="LangGraph" />
+<img src="https://img.shields.io/badge/-2563EB?style=for-the-badge&logo=openai&logoColor=white" alt="LiteLLM" title="LiteLLM" />
+<img src="https://img.shields.io/badge/-7C3AED?style=for-the-badge&logo=anthropic&logoColor=white" alt="Model Context Protocol" title="Model Context Protocol" />
+<img src="https://img.shields.io/badge/-DB2777?style=for-the-badge&logo=robotframework&logoColor=white" alt="Multi-Agent Systems" title="Multi-Agent Systems" />
+<img src="https://img.shields.io/badge/-FF6F00?style=for-the-badge&logo=keras&logoColor=white" alt="Neural Networks" title="Neural Networks" />
+<img src="https://img.shields.io/badge/-059669?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Dimensionality Reduction" title="Dimensionality Reduction" />
 </p>
 
 ### 🗄️ Databases & Persistence
@@ -40,8 +40,8 @@ Final-year Computer Engineering undergraduate at the **University of Peradeniya*
 <p>
 <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,hibernate&perline=10" alt="PostgreSQL, MySQL, MongoDB, and Hibernate" />
 <br />
-<img src="https://img.shields.io/badge/Spring_Data_JPA-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring Data JPA" />
-<img src="https://img.shields.io/badge/Flyway-CC0200?style=for-the-badge&logo=flyway&logoColor=white" alt="Flyway" />
+<img src="https://img.shields.io/badge/-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring Data JPA" title="Spring Data JPA" />
+<img src="https://img.shields.io/badge/-CC0200?style=for-the-badge&logo=flyway&logoColor=white" alt="Flyway" title="Flyway" />
 </p>
 
 ### ☁️ Cloud & DevOps
@@ -53,12 +53,12 @@ Final-year Computer Engineering undergraduate at the **University of Peradeniya*
 ### 🧩 Software Engineering
 
 <p>
-<img src="https://img.shields.io/badge/OOP-334155?style=for-the-badge&logo=codecrafters&logoColor=white" alt="Object-Oriented Programming" />
-<img src="https://img.shields.io/badge/Design_Patterns-475569?style=for-the-badge&logo=stackblitz&logoColor=white" alt="Design Patterns" />
-<img src="https://img.shields.io/badge/REST_APIs-009688?style=for-the-badge&logo=postman&logoColor=white" alt="REST APIs" />
-<img src="https://img.shields.io/badge/MVC-7C3AED?style=for-the-badge&logo=spring&logoColor=white" alt="MVC" />
-<img src="https://img.shields.io/badge/Microservices-2563EB?style=for-the-badge&logo=apachekafka&logoColor=white" alt="Microservices Architecture" />
-<img src="https://img.shields.io/badge/Layered_Architecture-DB2777?style=for-the-badge&logo=diagramsdotnet&logoColor=white" alt="Layered Architecture" />
+<img src="https://img.shields.io/badge/-334155?style=for-the-badge&logo=codecrafters&logoColor=white" alt="Object-Oriented Programming" title="Object-Oriented Programming" />
+<img src="https://img.shields.io/badge/-475569?style=for-the-badge&logo=stackblitz&logoColor=white" alt="Design Patterns" title="Design Patterns" />
+<img src="https://img.shields.io/badge/-009688?style=for-the-badge&logo=postman&logoColor=white" alt="REST APIs" title="REST APIs" />
+<img src="https://img.shields.io/badge/-7C3AED?style=for-the-badge&logo=spring&logoColor=white" alt="MVC" title="MVC" />
+<img src="https://img.shields.io/badge/-2563EB?style=for-the-badge&logo=apachekafka&logoColor=white" alt="Microservices Architecture" title="Microservices Architecture" />
+<img src="https://img.shields.io/badge/-DB2777?style=for-the-badge&logo=diagramsdotnet&logoColor=white" alt="Layered Architecture" title="Layered Architecture" />
 </p>
 
 ---
