@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi there, I'm Tharushika Prasadinie 👋
+# Hi there, I'm Tharushika Prasadinie
 
 ### Software Engineer Intern • Agentic AI Developer • Full-Stack Engineer
 
@@ -23,72 +23,72 @@ Final-year Computer Engineering undergraduate at the **University of Peradeniya*
 
 </div>
 
-## 👩‍💻 About Me
+## About Me
 
-- 💼 **Software Engineer Intern - AI Agent Development** at **Axonect**
-- 🤖 Building AI-powered developer tools and multi-agent applications
-- 🌐 Developing full-stack systems with Java, Spring Boot, React, Flutter, and PostgreSQL
-- 🔬 Researching dimensionality reduction and topology preservation for metagenomic data
-- 🎓 Completing a BSc Eng Hons in Computer Engineering at the University of Peradeniya
+- **Software Engineer Intern - AI Agent Development** at **Axonect**
+- Building AI-powered developer tools and multi-agent applications
+- Developing full-stack systems with Java, Spring Boot, React, Flutter, and PostgreSQL
+- Researching dimensionality reduction and topology preservation for metagenomic data
+- Completing a BSc Eng Hons in Computer Engineering at the University of Peradeniya
 
-## 🧰 Technical Toolbox
+## Technical Toolbox
 
 ### Programming Languages
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=sqlite&logoColor=white)
+<img src="https://img.shields.io/badge/-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" title="Java" />
+<img src="https://img.shields.io/badge/-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" title="Python" />
+<img src="https://img.shields.io/badge/-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" title="TypeScript" />
+<img src="https://img.shields.io/badge/-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" title="JavaScript" />
+<img src="https://img.shields.io/badge/-A8B9CC?style=for-the-badge&logo=c&logoColor=black" alt="C" title="C" />
+<img src="https://img.shields.io/badge/-4479A1?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQL" title="SQL" />
 
 ### Frontend & Backend
 
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+<img src="https://img.shields.io/badge/-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" title="Flutter" />
+<img src="https://img.shields.io/badge/-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" title="React" />
+<img src="https://img.shields.io/badge/-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot" title="Spring Boot" />
+<img src="https://img.shields.io/badge/-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" title="Node.js" />
+<img src="https://img.shields.io/badge/-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" title="Express.js" />
+<img src="https://img.shields.io/badge/-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" title="FastAPI" />
+<img src="https://img.shields.io/badge/-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" title="Flask" />
 
 ### AI & Machine Learning
 
-![Deep Agents](https://img.shields.io/badge/Deep_Agents-6D28D9?style=flat-square&logo=dependabot&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
-![LangGraph](https://img.shields.io/badge/LangGraph-0F172A?style=flat-square&logo=langchain&logoColor=white)
-![LiteLLM](https://img.shields.io/badge/LiteLLM-2563EB?style=flat-square&logo=openai&logoColor=white)
-![MCP](https://img.shields.io/badge/MCP-7C3AED?style=flat-square&logo=anthropic&logoColor=white)
-![Multi-Agent Systems](https://img.shields.io/badge/Multi--Agent_Systems-DB2777?style=flat-square&logo=robotframework&logoColor=white)
-![Neural Networks](https://img.shields.io/badge/Neural_Networks-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![Dimensionality Reduction](https://img.shields.io/badge/Dimensionality_Reduction-059669?style=flat-square&logo=scikitlearn&logoColor=white)
+<img src="https://img.shields.io/badge/-6D28D9?style=for-the-badge&logo=dependabot&logoColor=white" alt="Deep Agents" title="Deep Agents" />
+<img src="https://img.shields.io/badge/-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain" title="LangChain" />
+<img src="https://img.shields.io/badge/-0F172A?style=for-the-badge&logo=langchain&logoColor=white" alt="LangGraph" title="LangGraph" />
+<img src="https://img.shields.io/badge/-2563EB?style=for-the-badge&logo=openai&logoColor=white" alt="LiteLLM" title="LiteLLM" />
+<img src="https://img.shields.io/badge/-7C3AED?style=for-the-badge&logo=anthropic&logoColor=white" alt="MCP" title="Model Context Protocol" />
+<img src="https://img.shields.io/badge/-DB2777?style=for-the-badge&logo=robotframework&logoColor=white" alt="Multi-Agent Systems" title="Multi-Agent Systems" />
+<img src="https://img.shields.io/badge/-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="Neural Networks" title="Neural Networks" />
+<img src="https://img.shields.io/badge/-059669?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Dimensionality Reduction" title="Dimensionality Reduction" />
 
 ### Databases & Persistence
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![Spring Data JPA](https://img.shields.io/badge/Spring_Data_JPA-6DB33F?style=flat-square&logo=spring&logoColor=white)
-![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=flat-square&logo=hibernate&logoColor=white)
-![Flyway](https://img.shields.io/badge/Flyway-CC0200?style=flat-square&logo=flyway&logoColor=white)
+<img src="https://img.shields.io/badge/-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" title="PostgreSQL" />
+<img src="https://img.shields.io/badge/-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" title="MySQL" />
+<img src="https://img.shields.io/badge/-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" title="MongoDB" />
+<img src="https://img.shields.io/badge/-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring Data JPA" title="Spring Data JPA" />
+<img src="https://img.shields.io/badge/-59666C?style=for-the-badge&logo=hibernate&logoColor=white" alt="Hibernate" title="Hibernate" />
+<img src="https://img.shields.io/badge/-CC0200?style=for-the-badge&logo=flyway&logoColor=white" alt="Flyway" title="Flyway" />
 
 ### Cloud & DevOps
 
-![AWS](https://img.shields.io/badge/AWS_EC2_&_S3-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+<img src="https://img.shields.io/badge/-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white" alt="AWS EC2 and S3" title="AWS EC2 and S3" />
+<img src="https://img.shields.io/badge/-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" title="Docker" />
+<img src="https://img.shields.io/badge/-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" title="Kubernetes" />
+<img src="https://img.shields.io/badge/-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions" title="GitHub Actions" />
 
 ### Software Engineering
 
-![OOP](https://img.shields.io/badge/OOP-334155?style=flat-square&logo=codecrafters&logoColor=white)
-![Design Patterns](https://img.shields.io/badge/Design_Patterns-475569?style=flat-square&logo=stackblitz&logoColor=white)
-![REST APIs](https://img.shields.io/badge/REST_APIs-009688?style=flat-square&logo=postman&logoColor=white)
-![MVC](https://img.shields.io/badge/MVC-7C3AED?style=flat-square&logo=spring&logoColor=white)
-![Microservices](https://img.shields.io/badge/Microservices-2563EB?style=flat-square&logo=apachekafka&logoColor=white)
-![Layered Architecture](https://img.shields.io/badge/Layered_Architecture-DB2777?style=flat-square&logo=diagramsdotnet&logoColor=white)
+<img src="https://img.shields.io/badge/-334155?style=for-the-badge&logo=codecrafters&logoColor=white" alt="Object-Oriented Programming" title="Object-Oriented Programming" />
+<img src="https://img.shields.io/badge/-475569?style=for-the-badge&logo=stackblitz&logoColor=white" alt="Design Patterns" title="Design Patterns" />
+<img src="https://img.shields.io/badge/-009688?style=for-the-badge&logo=postman&logoColor=white" alt="REST APIs" title="REST APIs" />
+<img src="https://img.shields.io/badge/-7C3AED?style=for-the-badge&logo=spring&logoColor=white" alt="MVC" title="MVC" />
+<img src="https://img.shields.io/badge/-2563EB?style=for-the-badge&logo=apachekafka&logoColor=white" alt="Microservices" title="Microservices" />
+<img src="https://img.shields.io/badge/-DB2777?style=for-the-badge&logo=diagramsdotnet&logoColor=white" alt="Layered Architecture" title="Layered Architecture" />
 
-## ✨ Experience Spotlight
+## Experience Spotlight
 
 | Project | Contribution |
 |---|---|
@@ -97,28 +97,28 @@ Final-year Computer Engineering undergraduate at the **University of Peradeniya*
 | **Event Scheduling Agent** | Integrated a Calendar MCP server to identify suitable time slots, schedule events, and manage invitations through natural language. |
 | **Workspace Reservation System** | Developed React and Java/Spring Boot microservices with PostgreSQL for seat and meeting-room reservations. |
 
-## 🚀 Selected Projects
+## Selected Projects
 
-### 🧬 [Data-Driven Methods for Comparative Metagenomics](https://github.com/cepdnaclk/e20-4yp-metagenomics)
+### [Data-Driven Methods for Comparative Metagenomics](https://github.com/cepdnaclk/e20-4yp-metagenomics)
 
 Comparative analysis of dimensionality reduction methods using data preprocessing, robust CLR transformation, matrix completion, and topology-preservation metrics.
 
-### 🩺 [Vescueye - Real-Time Blood Flow Monitoring System](https://github.com/cepdnaclk/e20-3yp-Vescueye)
+### [Vescueye - Real-Time Blood Flow Monitoring System](https://github.com/cepdnaclk/e20-3yp-Vescueye)
 
 Medical IoT system using NIR imaging, temperature sensing, Raspberry Pi, AWS IoT services, and mobile alerts for post-operative monitoring.
 
-### 🗺️ [TourMate - Smart Travel Companion](https://github.com/tgcjananga/TourMate-GroupProject)
+### [TourMate - Smart Travel Companion](https://github.com/tgcjananga/TourMate-GroupProject)
 
 Full-stack travel-planning application built with React, Spring Boot, Spring Security, MySQL, and external APIs.
 
-## 📚 Research & Recognition
+## Research & Recognition
 
 > **[Evaluating Topology Preservation in Dimensionality Reduction Methods for Metagenomic Data: A Comparative Analysis](https://doi.org/10.1109/ICIPRoB69625.2026.11497819)**  
 > Published at ICIPRoB 2026.
 
-🥉 **Second Runner-Up - IEEE EMBS BioFusion AI/ML Medical Hackathon 2026**
+**Second Runner-Up - IEEE EMBS BioFusion AI/ML Medical Hackathon 2026**
 
-## 📊 GitHub Activity
+## GitHub Activity
 
 <div align="center">
 
